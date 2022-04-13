@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://omxpro.github.io/output/about/</loc>
+    <loc>http://149.56.23.20:1316/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/output/articles/</loc>
+    <loc>http://149.56.23.20:1316/articles/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/output/credits/</loc>
+    <loc>http://149.56.23.20:1316/credits/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/output/projects/</loc>
+    <loc>http://149.56.23.20:1316/projects/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/output/stack/</loc>
+    <loc>http://149.56.23.20:1316/stack/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/output/tools/</loc>
+    <loc>http://149.56.23.20:1316/tools/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/output/categories/</loc>
+    <loc>http://149.56.23.20:1316/categories/</loc>
   </url><url>
-    <loc>https://omxpro.github.io/output/</loc>
+    <loc>http://149.56.23.20:1316/</loc>
   </url><url>
-    <loc>https://omxpro.github.io/output/tags/</loc>
+    <loc>http://149.56.23.20:1316/tags/</loc>
   </url>
 </urlset>
