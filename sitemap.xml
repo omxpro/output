@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://omxpro.github.io/about/</loc>
+    <loc>https://omxpro.github.io/output/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/articles/</loc>
+    <loc>https://omxpro.github.io/output/articles/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/credits/</loc>
+    <loc>https://omxpro.github.io/output/credits/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/projects/</loc>
+    <loc>https://omxpro.github.io/output/projects/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/stack/</loc>
+    <loc>https://omxpro.github.io/output/stack/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/tools/</loc>
+    <loc>https://omxpro.github.io/output/tools/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://omxpro.github.io/categories/</loc>
+    <loc>https://omxpro.github.io/output/categories/</loc>
   </url><url>
-    <loc>https://omxpro.github.io/</loc>
+    <loc>https://omxpro.github.io/output/</loc>
   </url><url>
-    <loc>https://omxpro.github.io/tags/</loc>
+    <loc>https://omxpro.github.io/output/tags/</loc>
   </url>
 </urlset>

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Welcome to my Portfolio! 👋</title>
-    <link>https://omxpro.github.io/</link>
+    <link>https://omxpro.github.io/output/</link>
     <description>Recent content in Homepage on Welcome to my Portfolio! 👋</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omxpro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://omxpro.github.io/output/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://omxpro.github.io/about/</link>
+      <link>https://omxpro.github.io/output/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omxpro.github.io/about/</guid>
+      <guid>https://omxpro.github.io/output/about/</guid>
       <description>Placeholder Text </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://omxpro.github.io/articles/</link>
+      <link>https://omxpro.github.io/output/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omxpro.github.io/articles/</guid>
+      <guid>https://omxpro.github.io/output/articles/</guid>
       <description>Placeholder Text </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://omxpro.github.io/credits/</link>
+      <link>https://omxpro.github.io/output/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omxpro.github.io/credits/</guid>
+      <guid>https://omxpro.github.io/output/credits/</guid>
       <description>Placeholder Text </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://omxpro.github.io/projects/</link>
+      <link>https://omxpro.github.io/output/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omxpro.github.io/projects/</guid>
+      <guid>https://omxpro.github.io/output/projects/</guid>
       <description>Placeholder Text </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://omxpro.github.io/stack/</link>
+      <link>https://omxpro.github.io/output/stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omxpro.github.io/stack/</guid>
+      <guid>https://omxpro.github.io/output/stack/</guid>
       <description>Placeholder Text </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://omxpro.github.io/tools/</link>
+      <link>https://omxpro.github.io/output/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://omxpro.github.io/tools/</guid>
+      <guid>https://omxpro.github.io/output/tools/</guid>
       <description>Placeholder Text </description>
     </item>
     
